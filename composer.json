@@ -61,7 +61,7 @@
             "@auto-scripts"
         ],
         "compile": [
-            "php bin/console doctrine:migrations:migrate --no-iteraction"
+            "php bin/console doctrine:migrations:migrate --no-interaction"
         ]
     },
     "conflict": {
